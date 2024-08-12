@@ -1,4 +1,4 @@
-# ML_K.I.D.A
+# ML_K.I.D.A : It is a website-based computer vision application that employs the YOLOv8s model to accurately detect predatory and feed mites. Following detection, DeepSORT is utilized to track these mites and count their population within the sample.
 
 User manual for the website:
 
